@@ -1,27 +1,14 @@
----
-output:
-  md_document:
-    variant: markdown_github
----
-
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-
-```{r, echo = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "README-"
-)
-```
-
-# `psyintz`
+`psyintz`
+=========
 
 This package provides tools to score several common psychological measures. Its awesome.
 
-## Example
+Example
+-------
 
 This is a basic example which shows you how to solve a common problem:
 
-```{r example}
+``` r
 ## basic example code
 ```
