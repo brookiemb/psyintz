@@ -49,6 +49,6 @@ score.docs <- function(data, germs, harm, thoughts, symmetry, minus1 = TRUE){
 #' @export
 
 
-
+# hi
 
 
